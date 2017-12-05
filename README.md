@@ -1,17 +1,28 @@
 # Aplikasi apa lagi ini?
-Aplikasi ini adalah aplikasi sederhana yang menampilkan waktu
-matahari terbit, waktu matahari terbenam, panjang waktu matahari bersinar,
-waktu terbit dan terbenam dalam skala sipil, waktu terbit dan terbenam dalam
-skala nautikal, dan Waktu terbit terbenam dalam skala astronomi dalam format waktu 24 Jam.
-Yang mana semuanya dihitung berdasarkan letak latitude dan longitude pengguna.
+Aplikasi Simple Note adalah aplikasi catatan sederhana.
 
-Aplkasi ini menggunakan API dari https://sunrise-sunset.org/api.
+setiap catatan terdiri dari 3 item utama yaitu:
+ <ol>
+     <li>judul catatan</li>
+     <li>prioritas catatan (high, medium, low)</li>
+     <li>isi catatan</li>
+  </ol>
 
-Ini adalah Aplikasi pertama yang saya buat menggunakan React-native dengan tujuan sebagai hasil
-evaluasi belajar saya dan bukan ditujukan untuk di komersilkan, secara desain telah
-ada di play store bernama TerbitTerbenam yang dibuat Kodelokus Cipta Aplikasi.
+prioritas catatan adalah penting / tidaknya sebuah catatan dengan catatan lain-nya yang mana terbagi 3 :
+     <ol>
+          <li>high (penting) ditandai dengan warna merah</li>
+          <li>medium (biasa) ditandai dengan warna kuning</li>
+          <li>low (kurang penting) ditandai dengan warna hijau</li>
+     </ol>
+ dan dapat diubah sesuai keinginan anda.
 
-## alat tempur yang gw perluin apa aja nih?
+fitur lain : tambahkan catatan favorit, sortir catatan
+
+Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-management dengan tujuan sebagai hasil evaluasi belajar saya dan bukan ditujukan untuk di komersilkan.
+
+              UI inspired By Gmail and ColorNote.
+              
+  ## alat tempur yang gw perluin apa aja nih?
 
  * nodeJs >= 8.4.0 & npm >= 5.3.0
  * Python2
