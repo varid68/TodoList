@@ -22,7 +22,7 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
 
               UI inspired By Gmail and ColorNote.
               
-  ## alat tempur yang gw perluin apa aja nih?
+  ## requirements
 
  * nodeJs >= 8.4.0 & npm >= 5.3.0
  * Python2
@@ -31,7 +31,7 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
  * Android studio
  * react-native cli
 
-## trus running project-nya gimana?
+## running
  * Clone repository ini.
  * cd react-native-first-project kemudian npm install
  * running di emulator
@@ -40,9 +40,9 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
       * maka akan muncul sebuah terminal lagi
  
 
- ## Coba liat Tampilan-nya bro
+ ## Preview apps
  <img src="https://firebasestorage.googleapis.com/v0/b/ionic2-1afad.appspot.com/o/react-native-simple-note.gif?alt=media&token=992fa0a9-3c7c-4ea9-b8a6-8c0201b9b94d" alt="Preview" height=500>
 
 
- ## Lagi males clone, ada yang apk ?
+ ## download apk ?
 <a href="https://drive.google.com/open?id=1HoEnh5ZtwshJjspN0BOo7_4t6QtXifiR" target="_blank">Downlaod from Google drive [5Mb]</a>
