@@ -41,7 +41,7 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
  
 
  ## Preview apps
- <img src="https://firebasestorage.googleapis.com/v0/b/ionic2-1afad.appspot.com/o/react-native-simple-note.gif?alt=media&token=992fa0a9-3c7c-4ea9-b8a6-8c0201b9b94d" alt="Preview" height=500>
+ <img src="react-native.gif" alt="Preview" height=500>
 
 
  ## download apk ?
