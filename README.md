@@ -1,4 +1,4 @@
-# Aplikasi apa lagi ini?
+# Tentang
 Aplikasi Simple Note adalah aplikasi catatan sederhana.
 
 setiap catatan terdiri dari 3 item utama yaitu:
@@ -33,7 +33,7 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
 
 ## running
  * Clone repository ini.
- * cd react-native-first-project kemudian npm install
+ * cd simple-note kemudian npm install
  * running di emulator
       * pastikan emulator anda 'ON'
       * buka terminal di root project run `react-native run-android`
@@ -45,4 +45,4 @@ Ini adalah Aplikasi kedua yang saya buat menggunakan React-native tanpa state-ma
 
 
  ## download apk ?
-<a href="https://drive.google.com/open?id=1HoEnh5ZtwshJjspN0BOo7_4t6QtXifiR" target="_blank">Downlaod from Google drive [5Mb]</a>
+<a href="https://drive.google.com/open?id=18CVlv5OFnOPHYyLLt6oU-MhGUDRgJdXG" target="_blank">Downlaod from Google drive [5Mb]</a>
